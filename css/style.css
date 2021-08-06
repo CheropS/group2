@@ -257,5 +257,8 @@ ul li{
       overflow: hidden;
   }
   .banner {
-      background-image: url("");
+      background-image: url("../ASSETS/landing/image1.jpg");
+      min-height: 100vh;
+      background-repeat: no-repeat;
+      background-size: cover;
   }
